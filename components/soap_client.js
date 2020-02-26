@@ -1,4 +1,5 @@
 var soap=require('soap');
+// This example consumes the public WS SOAP https://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL
 var urlWsdl=process.env.URL_WSDL_CONVERT_NUMBERS || 'https://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL';
 
 module.exports.callSopaConvertNumber=async (number)=>{

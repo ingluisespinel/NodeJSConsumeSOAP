@@ -1,0 +1,16 @@
+{
+  "name": "loggerexample",
+  "version": "1.0.0",
+  "description": "A logger use example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Espinel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "soap": "^0.31.0",
+    "winston": "^3.2.1"
+  }
+}

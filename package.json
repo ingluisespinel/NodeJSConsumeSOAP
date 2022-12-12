@@ -9,7 +9,7 @@
   "author": "Luis Espinel",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "soap": "^0.31.0",
     "winston": "^3.2.1"
   }
